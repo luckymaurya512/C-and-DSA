@@ -29,7 +29,4 @@ int main(){
         cout<<v[i]<<" ";
     }
 
-// hii
-// frhdjdhgldgjgit status
-// skgddfhgsugih
 }
